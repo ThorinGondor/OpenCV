@@ -1,0 +1,31 @@
+﻿  stdafx.cpp
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Module4鼠标事件鼠标在窗口画方形.cpp
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(14): error C2065: “drawing_box”: 未声明的标识符
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(14): error C2065: “box”: 未声明的标识符
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(14): error C2228: “.width”的左边必须有类/结构/联合
+  f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(14): note: 类型是“unknown-type”
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(14): error C2228: “.x”的左边必须有类/结构/联合
+  f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(14): note: 类型是“unknown-type”
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(14): error C2228: “.height”的左边必须有类/结构/联合
+  f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(14): note: 类型是“unknown-type”
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(14): error C2228: “.y”的左边必须有类/结构/联合
+  f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(14): note: 类型是“unknown-type”
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(29): error C2065: “box”: 未声明的标识符
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(29): error C2228: “.x”的左边必须有类/结构/联合
+  f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(29): note: 类型是“unknown-type”
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(29): error C2228: “.y”的左边必须有类/结构/联合
+  f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(29): note: 类型是“unknown-type”
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(30): error C2065: “box”: 未声明的标识符
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(30): error C2228: “.x”的左边必须有类/结构/联合
+  f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(30): note: 类型是“unknown-type”
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(30): error C2228: “.width”的左边必须有类/结构/联合
+  f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(30): note: 类型是“unknown-type”
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(30): error C2228: “.y”的左边必须有类/结构/联合
+  f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(30): note: 类型是“unknown-type”
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(30): error C2228: “.height”的左边必须有类/结构/联合
+  f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(30): note: 类型是“unknown-type”
+f:\opencv_study\module4_(鼠标事件_鼠标在窗口画方形)\module4_(鼠标事件_鼠标在窗口画方形)\module4鼠标事件鼠标在窗口画方形.cpp(47): warning C4551: 缺少参数列表的函数调用

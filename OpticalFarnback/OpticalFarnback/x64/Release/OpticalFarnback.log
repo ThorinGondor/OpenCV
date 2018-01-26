@@ -1,0 +1,11 @@
+﻿  OpticalFarnback.cpp
+OpticalFarnback.cpp(77): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+OpticalFarnback.cpp(78): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+OpticalFarnback.cpp(86): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+OpticalFarnback.cpp(87): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  6 of 282 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  OpticalFarnback.vcxproj -> F:\OpenCV_Study\OpticalFarnback\x64\Release\OpticalFarnback.exe

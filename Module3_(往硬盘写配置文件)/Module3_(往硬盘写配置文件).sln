@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module3_(往硬盘写配置文件)", "Module3_(往硬盘写配置文件)\Module3_(往硬盘写配置文件).vcxproj", "{88E24B2E-D336-439B-ABEE-9B205D74202F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88E24B2E-D336-439B-ABEE-9B205D74202F}.Debug|x64.ActiveCfg = Debug|x64
+		{88E24B2E-D336-439B-ABEE-9B205D74202F}.Debug|x64.Build.0 = Debug|x64
+		{88E24B2E-D336-439B-ABEE-9B205D74202F}.Debug|x86.ActiveCfg = Debug|Win32
+		{88E24B2E-D336-439B-ABEE-9B205D74202F}.Debug|x86.Build.0 = Debug|Win32
+		{88E24B2E-D336-439B-ABEE-9B205D74202F}.Release|x64.ActiveCfg = Release|x64
+		{88E24B2E-D336-439B-ABEE-9B205D74202F}.Release|x64.Build.0 = Release|x64
+		{88E24B2E-D336-439B-ABEE-9B205D74202F}.Release|x86.ActiveCfg = Release|Win32
+		{88E24B2E-D336-439B-ABEE-9B205D74202F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F69AE11C-1599-452C-927B-2B8BD8C0B5D6}
+	EndGlobalSection
+EndGlobal

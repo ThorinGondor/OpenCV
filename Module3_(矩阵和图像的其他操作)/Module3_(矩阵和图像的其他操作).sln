@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module3_(矩阵和图像的其他操作)", "Module3_(矩阵和图像的其他操作)\Module3_(矩阵和图像的其他操作).vcxproj", "{02EC3B04-F5D2-4C62-9637-148FBE705C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02EC3B04-F5D2-4C62-9637-148FBE705C81}.Debug|x64.ActiveCfg = Debug|x64
+		{02EC3B04-F5D2-4C62-9637-148FBE705C81}.Debug|x64.Build.0 = Debug|x64
+		{02EC3B04-F5D2-4C62-9637-148FBE705C81}.Debug|x86.ActiveCfg = Debug|Win32
+		{02EC3B04-F5D2-4C62-9637-148FBE705C81}.Debug|x86.Build.0 = Debug|Win32
+		{02EC3B04-F5D2-4C62-9637-148FBE705C81}.Release|x64.ActiveCfg = Release|x64
+		{02EC3B04-F5D2-4C62-9637-148FBE705C81}.Release|x64.Build.0 = Release|x64
+		{02EC3B04-F5D2-4C62-9637-148FBE705C81}.Release|x86.ActiveCfg = Release|Win32
+		{02EC3B04-F5D2-4C62-9637-148FBE705C81}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2609C076-DEB5-423F-9234-A2F861AA33F9}
+	EndGlobalSection
+EndGlobal

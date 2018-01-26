@@ -1,0 +1,7 @@
+﻿  MatrixAndPic.cpp
+f:\opencv_study\module3_(矩阵和图像操作)\module3_(矩阵和图像操作)\matrixandpic.cpp(9): warning C4838: 从“double”转换到“float”需要收缩转换
+f:\opencv_study\module3_(矩阵和图像操作)\module3_(矩阵和图像操作)\matrixandpic.cpp(9): warning C4305: “初始化”: 从“double”到“float”截断
+f:\opencv_study\module3_(矩阵和图像操作)\module3_(矩阵和图像操作)\matrixandpic.cpp(27): warning C4838: 从“double”转换到“float”需要收缩转换
+f:\opencv_study\module3_(矩阵和图像操作)\module3_(矩阵和图像操作)\matrixandpic.cpp(27): warning C4305: “初始化”: 从“double”到“float”截断
+  Module3_(矩阵和图像操作).vcxproj -> F:\OpenCV_Study\Module3_(矩阵和图像操作)\x64\Debug\Module3_(矩阵和图像操作).exe
+  Module3_(矩阵和图像操作).vcxproj -> F:\OpenCV_Study\Module3_(矩阵和图像操作)\x64\Debug\Module3_(矩阵和图像操作).pdb (Partial PDB)

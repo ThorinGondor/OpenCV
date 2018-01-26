@@ -1,0 +1,5 @@
+﻿  读取和修改矩阵元素.cpp
+f:\opencv_study\module3_(使用cvgetreal2d和cvsetreal2d)\module3_(使用cvgetreal2d和cvsetreal2d)\读取和修改矩阵元素.cpp(25): warning C4838: 从“double”转换到“float”需要收缩转换
+f:\opencv_study\module3_(使用cvgetreal2d和cvsetreal2d)\module3_(使用cvgetreal2d和cvsetreal2d)\读取和修改矩阵元素.cpp(25): warning C4305: “初始化”: 从“double”到“float”截断
+  Module3_(使用cvGetReal2D和cvSetReal2D).vcxproj -> F:\OpenCV_Study\Module3_(使用cvGetReal2D和cvSetReal2D)\x64\Debug\Module3_(使用cvGetReal2D和cvSetReal2D).exe
+  Module3_(使用cvGetReal2D和cvSetReal2D).vcxproj -> F:\OpenCV_Study\Module3_(使用cvGetReal2D和cvSetReal2D)\x64\Debug\Module3_(使用cvGetReal2D和cvSetReal2D).pdb (Partial PDB)

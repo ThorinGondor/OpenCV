@@ -1,0 +1,13 @@
+﻿  Module3_(cvAddWeighted_图片融合).cpp
+f:\cppstudy\module3_(cvaddweighted_图片融合)\module3_(cvaddweighted_图片融合)\module3_(cvaddweighted_图片融合).cpp(9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\cppstudy\module3_(cvaddweighted_图片融合)\module3_(cvaddweighted_图片融合)\module3_(cvaddweighted_图片融合).cpp(10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+Module3_(cvAddWeighted_图片融合).obj : error LNK2019: 无法解析的外部符号 _cvCreateImage，该符号在函数 _main 中被引用
+Module3_(cvAddWeighted_图片融合).obj : error LNK2019: 无法解析的外部符号 _cvGetSize，该符号在函数 _main 中被引用
+Module3_(cvAddWeighted_图片融合).obj : error LNK2019: 无法解析的外部符号 _cvAddWeighted，该符号在函数 _main 中被引用
+Module3_(cvAddWeighted_图片融合).obj : error LNK2019: 无法解析的外部符号 _cvLoadImage，该符号在函数 _main 中被引用
+Module3_(cvAddWeighted_图片融合).obj : error LNK2019: 无法解析的外部符号 _cvNamedWindow，该符号在函数 _main 中被引用
+Module3_(cvAddWeighted_图片融合).obj : error LNK2019: 无法解析的外部符号 _cvShowImage，该符号在函数 _main 中被引用
+Module3_(cvAddWeighted_图片融合).obj : error LNK2019: 无法解析的外部符号 _cvWaitKey，该符号在函数 _main 中被引用
+G:\OpenCV\opencv\build\x64\vc14\lib\opencv_world330.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+G:\OpenCV\opencv\build\x64\vc14\lib\opencv_world330d.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+F:\CPPstudy\Module3_(cvAddWeighted_图片融合)\Debug\Module3_(cvAddWeighted_图片融合).exe : fatal error LNK1120: 7 个无法解析的外部命令

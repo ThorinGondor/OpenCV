@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+f:\opencv_study\module6_(卷积_sobel算子)\module6_(卷积_sobel算子)\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv_study\module6_(卷积_sobel算子)\module6_(卷积_sobel算子)\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv_study\module6_(卷积_sobel算子)\module6_(卷积_sobel算子)\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Module6卷积Sobel算子.cpp
+f:\opencv_study\module6_(卷积_sobel算子)\module6_(卷积_sobel算子)\module6卷积sobel算子.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+Module6卷积Sobel算子.obj : error LNK2019: 无法解析的外部符号 _cvCreateImage，该符号在函数 _main 中被引用
+Module6卷积Sobel算子.obj : error LNK2019: 无法解析的外部符号 _cvGetSize，该符号在函数 _main 中被引用
+Module6卷积Sobel算子.obj : error LNK2019: 无法解析的外部符号 _cvSplit，该符号在函数 _main 中被引用
+Module6卷积Sobel算子.obj : error LNK2019: 无法解析的外部符号 _cvSobel，该符号在函数 _main 中被引用
+Module6卷积Sobel算子.obj : error LNK2019: 无法解析的外部符号 _cvLoadImage，该符号在函数 _main 中被引用
+Module6卷积Sobel算子.obj : error LNK2019: 无法解析的外部符号 _cvNamedWindow，该符号在函数 _main 中被引用
+Module6卷积Sobel算子.obj : error LNK2019: 无法解析的外部符号 _cvShowImage，该符号在函数 _main 中被引用
+Module6卷积Sobel算子.obj : error LNK2019: 无法解析的外部符号 _cvWaitKey，该符号在函数 _main 中被引用
+G:\OpenCV\opencv\build\x64\vc14\lib\opencv_world330.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+G:\OpenCV\opencv\build\x64\vc14\lib\opencv_world330d.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+F:\OpenCV_Study\Module6_(卷积_Sobel算子)\Debug\Module6_(卷积_Sobel算子).exe : fatal error LNK1120: 8 个无法解析的外部命令

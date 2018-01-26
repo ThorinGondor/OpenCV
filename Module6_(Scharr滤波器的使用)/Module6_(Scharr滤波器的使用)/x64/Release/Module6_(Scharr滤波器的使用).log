@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv_study\module6_(scharr滤波器的使用)\module6_(scharr滤波器的使用)\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv_study\module6_(scharr滤波器的使用)\module6_(scharr滤波器的使用)\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Module6Scharr滤波器的使用.cpp
+Module6Scharr滤波器的使用.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码
+  1 of 189 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Module6_(Scharr滤波器的使用).vcxproj -> F:\OpenCV_Study\Module6_(Scharr滤波器的使用)\x64\Release\Module6_(Scharr滤波器的使用).exe
