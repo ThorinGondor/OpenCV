@@ -1,7 +1,0 @@
-﻿  stdafx.cpp
-f:\opencv_study\module7_(查找、绘制图像的轮廓矩)\module7_(查找、绘制图像的轮廓矩)\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-f:\opencv_study\module7_(查找、绘制图像的轮廓矩)\module7_(查找、绘制图像的轮廓矩)\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-f:\opencv_study\module7_(查找、绘制图像的轮廓矩)\module7_(查找、绘制图像的轮廓矩)\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  Module7查找绘制图像的轮廓矩.cpp
-f:\opencv_study\module7_(查找、绘制图像的轮廓矩)\module7_(查找、绘制图像的轮廓矩)\module7查找绘制图像的轮廓矩.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-opencv_world330.lib(opencv_world330.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“x86”冲突
