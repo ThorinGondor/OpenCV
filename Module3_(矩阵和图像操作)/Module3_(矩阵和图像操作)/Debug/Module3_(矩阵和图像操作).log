@@ -1,8 +1,0 @@
-﻿  MatrixAndPic.cpp
-f:\opencv_study\module3_(矩阵和图像操作)\module3_(矩阵和图像操作)\matrixandpic.cpp(8): warning C4838: 从“double”转换到“float”需要收缩转换
-f:\opencv_study\module3_(矩阵和图像操作)\module3_(矩阵和图像操作)\matrixandpic.cpp(8): warning C4305: “初始化”: 从“double”到“float”截断
-MatrixAndPic.obj : error LNK2019: 无法解析的外部符号 _cvInitMatHeader，该符号在函数 _main 中被引用
-MatrixAndPic.obj : error LNK2019: 无法解析的外部符号 _cvAbsDiffS，该符号在函数 _main 中被引用
-G:\OpenCV\opencv\build\x64\vc14\lib\opencv_world330.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
-G:\OpenCV\opencv\build\x64\vc14\lib\opencv_world330d.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
-F:\OpenCV_Study\Module3_(矩阵和图像操作)\Debug\Module3_(矩阵和图像操作).exe : fatal error LNK1120: 2 个无法解析的外部命令

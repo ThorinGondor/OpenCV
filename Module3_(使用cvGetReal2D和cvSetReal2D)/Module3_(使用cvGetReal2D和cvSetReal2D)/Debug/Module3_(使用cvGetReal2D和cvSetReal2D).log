@@ -1,5 +1,0 @@
-﻿  读取和修改矩阵元素.cpp
-读取和修改矩阵元素.obj : error LNK2019: 无法解析的外部符号 _cvLoadImage，该符号在函数 _main 中被引用
-G:\OpenCV\opencv\build\x64\vc14\lib\opencv_world330.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
-G:\OpenCV\opencv\build\x64\vc14\lib\opencv_world330d.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
-F:\OpenCV_Study\Module3_(使用cvGetReal2D和cvSetReal2D)\Debug\Module3_(使用cvGetReal2D和cvSetReal2D).exe : fatal error LNK1120: 1 个无法解析的外部命令
